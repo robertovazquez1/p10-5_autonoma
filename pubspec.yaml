@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  dotted_border: ^2.0.0  # Asegúrate de usar la última versión disponible
 
 dev_dependencies:
   flutter_test:
@@ -30,4 +31,4 @@ flutter:
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
-  #         weight: 700
+  #         weight: 700 # Asegúrate de usar la última versión disponible
